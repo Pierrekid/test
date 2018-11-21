@@ -1,4 +1,3 @@
-a = [cat, dog, mouse, birds, letters]
-for items_animales in s:
-    if len(items_animales) == 3:
-        print(items_animales)
+age = 2018-2016
+print (age)
+print(2018)
